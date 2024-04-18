@@ -31,7 +31,8 @@ The text detection and font recognition components are integrated to annotate th
 The developed text detection and font recognition model successfully identifies text regions in images and predicts the font style of the detected text. This model can be further enhanced and integrated into various applications requiring automated text analysis and font recognition capabilities.
 
 **Recommendations for Future Work:**
-- Experiment with different text detection and font recognition algorithms to improve accuracy and robustness.
-- Fine-tune the font recognition model on additional font styles to enhance its recognition capabilities.
-- Explore the use of transfer learning to adapt pre-trained models for font recognition tasks.
-- Extend the model to support multi-language text detection and font recognition for broader applicability.
+- We can also train our model on color font detection which will also recognizing the color used in font, which will helpful during the maintenance of the aircraft, filling and recognizing the maintenance reports and spare parts box texts recognitions.
+
+- By increasing epochs, the model accuracy can increase. Also we can introduce cache and prefetch to reduce the training period.
+![image](https://github.com/Rohit-Saswadkar/Font-Text-classification-project-using-CNN/assets/126965510/d035db70-44a3-463f-a921-93861eee7c7c)
+
