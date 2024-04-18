@@ -1,7 +1,14 @@
+Thank you to giving m this valuable opportunity which reulted to learn about Cv2 and more about CNN
+
 Installation required libraries - 
 * 1] install tensorflow
 * 2] install cv2
 * 3] install easyocr
+
+Dataset used - Font Recognition Data
+This data consists to types od datasets - 1] font dataset large   2] Font dataset large color
+I used "Font dataset large" as I trained the model in my laptop (due to google drive folder upload time constraints) so to avoid processing load I usec that dataset.
+
 
 Text Detection and Font Recognition Model
 
