@@ -1,5 +1,5 @@
 Link to Presentation - https://docs.google.com/presentation/d/1lPR56_HoAeXm3Z0hbDfN4gOu1s7L1wtn/edit?usp=sharing&ouid=115169350078482455358&rtpof=true&sd=true
-Thank you to giving m this valuable opportunity which reulted to learn about Cv2 and more about CNN
+* Thank you to giving m this valuable opportunity which reulted to learn about Cv2 and more about CNN
 
 Installation required libraries - 
 * 1] install tensorflow
