@@ -26,7 +26,7 @@ Text detection is the process of locating and identifying text regions within an
 2. Font Recognition:
 Font recognition involves identifying the font style of text regions detected in the image. This is accomplished using a pre-trained deep learning model. The steps for font recognition are as follows:
 
-- Preprocess Image Patch: The text patch extracted from the image is preprocessed to match the input requirements of the font recognition model. This includes converting the patch to grayscale, resizing it to a fixed size, and normalizing pixel values.
+- Preprocess Image Patch: The text patch extracted from the image is preprocessed to match the input requirements of the font recognition model using resizing to 64 x 64 and normalization by dividing by 255 as each image has values between 0 to 255. This includes converting the patch to grayscale, resizing it to a fixed size, and normalizing pixel values.
 - Predict Font: The preprocessed image patch is passed through the font recognition model to predict the font style. The model outputs class probabilities, from which the predicted font class is determined.
 
 3. Model Integration and Visualization:
