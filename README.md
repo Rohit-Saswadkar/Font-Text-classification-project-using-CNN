@@ -1,3 +1,8 @@
+Required libraries - 
+1] install tensorflow
+2] install cv2
+3] install easyocr
+
 **Text Detection and Font Recognition Model**
 
 **Introduction:**
