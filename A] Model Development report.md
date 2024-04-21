@@ -1,5 +1,5 @@
-Presentation - https://docs.google.com/presentation/d/1JGPd1MOcGTFJOqq3h9TaKggLBuI0Nyak/edit?usp=sharing&ouid=115169350078482455358&rtpof=true&sd=true
-Approach I taken for our project:
+* Presentation - https://docs.google.com/presentation/d/1JGPd1MOcGTFJOqq3h9TaKggLBuI0Nyak/edit?usp=sharing&ouid=115169350078482455358&rtpof=true&sd=true
+* Approach I taken for our project:
 1. Data Collection:
    - There is a dataset available for font detection on kaggel having 2 datasets init as Font Dataset Large and Font Dataset Large Color, containing 48 different font types each.
    - I Chose the Font Dataset Large due to hardware constraints and time constraints for data uploading on Google Drive.
