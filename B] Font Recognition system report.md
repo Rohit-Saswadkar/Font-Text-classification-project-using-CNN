@@ -1,7 +1,7 @@
 For any concerns or queries please connect - saswadkar.rohit1@gmail.com .
 
 
-Link to Presentation - https://docs.google.com/presentation/d/1JGPd1MOcGTFJOqq3h9TaKggLBuI0Nyak/edit?usp=sharing&ouid=115169350078482455358&rtpof=true&sd=true
+Link to Presentation - https://docs.google.com/presentation/d/10lMSWMtcddJqXx1ptVGGV_B2GJYAdML0/edit?usp=sharing&ouid=115169350078482455358&rtpof=true&sd=true
 * Thank you to giving m this valuable opportunity which reulted to learn about Cv2 and more about CNN
 
 Installation required libraries - 
