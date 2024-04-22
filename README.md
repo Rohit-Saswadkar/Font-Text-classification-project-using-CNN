@@ -1,4 +1,4 @@
-# Font Detection System
+# Font Recognition Model and System
 
 This repository contains code for a Font Recognition Model and System built using Convolutional Neural Networks (CNN). The system is divided into two parts:
 
