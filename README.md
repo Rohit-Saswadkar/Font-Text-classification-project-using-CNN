@@ -1,14 +1,23 @@
-I divide our project into 2 as
-1] Model development - 
-    Built the font recognition model using CNN
-2] Font Detection using model - 
-    Built a Font detection system which will detect text and recognizes font of input image.
+# Font Detection System
 
-Steps to use the models
-1] Download "Font Dataset Large Model H5 file" which is the Trained model file and save itin Google drive
-2] Paste that model link into "Font Detection using model" model path
-3] Paste any image link into "Font Detection using model" image path
-4] Run all cells
+This repository contains code for a Font Detection System built using Convolutional Neural Networks (CNN). The system is divided into two parts:
 
-Output- 
-The system shows thee image with text detected using regions and predicted font of each image
+1. Model Development: This part involves building the font recognition model using CNN.
+
+2. Font Detection using Model: This part consists of building a Font detection system which detects text and recognizes the font of the input image.
+
+## Steps to Use the Models
+
+1. Download the "Font Dataset Large Model H5 file", which is the trained model file, and save it in Google Drive.
+
+2. Paste the model link into the "Font Detection using Model" notebook's model path section.
+
+3. Paste any image link into the "Font Detection using Model" notebook's image path section.
+
+4. Run all cells in the notebook.
+
+## Output
+
+The system will display the image with the detected text using regions and the predicted font of each image.
+
+Feel free to reach out if you have any questions or suggestions!
