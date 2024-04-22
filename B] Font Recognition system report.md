@@ -33,9 +33,8 @@ Font recognition involves identifying the font style of text regions detected in
 - Preprocess Image Patch: The text patch extracted from the image is preprocessed to match the input requirements of the font recognition model using resizing to 64 x 64 and normalization by dividing by 255 as each image has values between 0 to 255. This includes converting the patch to grayscale, resizing it to a fixed size, and normalizing pixel values.
 - Predict Font: The preprocessed image patch is passed through the font recognition model to predict the font style. The model outputs class probabilities, from which the predicted font class is determined.
 
-3. Evaluation: Evaluated model using accuracy metrics and got 98.5 % accuracy.
   
-4. Model Integration and Visualization:
+3. Model Integration and Visualization:
 The text detection and font recognition components are integrated to annotate the image with detected text regions and predicted font styles. The annotated image is visualized using Matplotlib.
 
 Technologies Used:
