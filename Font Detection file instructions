@@ -1,3 +1,0 @@
-1] Download and Load the "Font Dataset Large Model H5 file" file path in "Font Detection using model"
-2] load the image path in the "Font Detection using model" amd run all cells
-3] It will gives the image with the text recognised with its regions and recognised Font.
