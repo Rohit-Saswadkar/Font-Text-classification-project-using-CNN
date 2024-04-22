@@ -1,5 +1,8 @@
 # Font Recognition Model and System
 
+dataset download link - https://www.kaggle.com/datasets/muhammadardiputra/font-recognition-data/download?datasetVersionNumber=1
+dataset website - https://www.kaggle.com/datasets/muhammadardiputra/font-recognition-data
+
 This repository contains code for a Font Recognition Model and System built using Convolutional Neural Networks (CNN). The system is divided into two parts:
 
 1. Model Development: This part involves building the font recognition model using CNN.
