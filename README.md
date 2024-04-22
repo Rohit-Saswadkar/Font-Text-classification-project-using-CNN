@@ -1,5 +1,5 @@
-*I divide our project into 2 as
-*1] Model development - 
+#I divide our project into 2 as
+#1] Model development - 
  *   Built the font recognition model using CNN
 *2] Font Detection using model - 
  *   Built a Font detection system which will detect text and recognizes font of input image.
