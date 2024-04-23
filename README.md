@@ -1,8 +1,8 @@
 # Font Recognition Model and System
 This model is trained upon my laptop due to Google drive upload time constraints for 1 GB dataset
 ####This is Pycharm notebook file of the model for local run purpose - https://drive.google.com/file/d/1d5S1WGaVr0qEVLZDOvDbmJMjE_rOhpdI/view?usp=sharing
-
-
+##
+##
 ##### Dataset download link - https://www.kaggle.com/datasets/muhammadardiputra/font-recognition-data/download?datasetVersionNumber=1
 ##### Dataset website - https://www.kaggle.com/datasets/muhammadardiputra/font-recognition-data\
 ##### Presentation - https://docs.google.com/presentation/d/10lMSWMtcddJqXx1ptVGGV_B2GJYAdML0/edit?usp=sharing&ouid=115169350078482455358&rtpof=true&sd=true
