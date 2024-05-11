@@ -7,3 +7,5 @@ padding - https://blog.gopenai.com/padding-in-neural-networks-why-and-how-b076ab
 early stopping - https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
 
 xavier initialization - https://docs.opencv.org/4.x/dc/dd3/tutorial_gausian_median_blur_bilateral_filter.html
+
+batch normalization - https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/
