@@ -1,12 +1,14 @@
 # Font Recognition Model and System
 This model is trained upon my laptop due to Google drive upload time constraints for 1 GB dataset
-This is Pycharm notebook file of the model for local run purpose - https://drive.google.com/file/d/1d5S1WGaVr0qEVLZDOvDbmJMjE_rOhpdI/view?usp=sharing
+This is Pycharm notebook file of the model for local run purpose - https://drive.google.com/file/d/1d5S1WG![Screenshot 2024-05-18 130745](https://github.com/Rohit-Saswadkar/Font-Text-classification-project-using-CNN/assets/126965510/b9a6cf1e-0f6c-47ac-80d5-c04335e641b0)
+aVr0qEVLZDOvDbmJMjE_rOhpdI/view?usp=sharing
 
 # Referals to create our project
 
 My deep learning notes 1- https://drive.google.com/file/d/1JEyZWeZGZ6HVrHnQo76ushJ3tl7LcsAh/view?usp=sharing
 
-My deep learning notes 2 - https://drive.google.com/file/d/1-CtwH3_Gy3MxkwAYZvIEgXCJXeqfVydc/view?usp=sharing
+My deep learning notes 2 - https://dri![Screenshot 2024-05-18 130745](https://github.com/Rohit-Saswadkar/Font-Text-classification-project-using-CNN/assets/126965510/09ec72a0-5089-48cc-8d89-d92e03e87d9e)
+ve.google.com/file/d/1-CtwH3_Gy3MxkwAYZvIEgXCJXeqfVydc/view?usp=sharing
 
 easyocr - https://pianalytix.com/using-easyocr-library-for-text-extraction/
 
