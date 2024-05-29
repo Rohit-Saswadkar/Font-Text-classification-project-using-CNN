@@ -1,9 +1,9 @@
 # Font Recognition Model and System
 This model is trained upon my laptop due to Google drive upload time constraints for 1 GB dataset
-This is Pycharm notebook file of the model for local run purpose - https://drive.google.com/file/d/1d5S1WG!
+This is Pycharm notebook file of the model for local run purpose - https://drive.google.com/file/d/1d5S1WG
 
 (https://github.com/Rohit-Saswadkar/Font-Text-classification-project-using-CNN/assets/126965510/b9a6cf1e-0f6c-47ac-80d5-c04335e641b0)
-aVr0qEVLZDOvDbmJMjE_rOhpdI/view?usp=sharing
+
 
 # Referals to create our project
 
