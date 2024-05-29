@@ -9,8 +9,7 @@ font recognition app screenshot - https://github.com/Rohit-Saswadkar/Font-Text-c
 
 My deep learning notes 1- https://drive.google.com/file/d/1JEyZWeZGZ6HVrHnQo76ushJ3tl7LcsAh/view?usp=sharing
 
-My deep learning notes 2 - https://dri![Screenshot 2024-05-18 130745](https://github.com/Rohit-Saswadkar/Font-Text-classification-project-using-CNN/assets/126965510/09ec72a0-5089-48cc-8d89-d92e03e87d9e)
-ve.google.com/file/d/1-CtwH3_Gy3MxkwAYZvIEgXCJXeqfVydc/view?usp=sharing
+My deep learning notes 2 - https://drive.google.com/file/d/1-CtwH3_Gy3MxkwAYZvIEgXCJXeqfVydc/view?usp=sharing
 
 easyocr - https://pianalytix.com/using-easyocr-library-for-text-extraction/
 
